@@ -5,10 +5,6 @@ import java.io.*;
 import java.util.*;
 import javax.swing.*;
 
-/**
- *
- * @author m.e.morse39757
- */
 public class Main {
 
     public static void main(String[] args) {
